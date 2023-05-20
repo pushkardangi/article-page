@@ -1,8 +1,8 @@
 <a name="readme-top"></a>
 
-# Articles Page <a href="https://articles-page.netlify.app/"> ![Live Link](https://img.shields.io/badge/live_link-1e394e?style=for-the-badge&logo=&logoColor=white) </a>
+# Mindmelt Articles <a href="https://articles-page.netlify.app/"> ![Live Link](https://img.shields.io/badge/live_link-1e394e?style=for-the-badge&logo=&logoColor=white) </a>
 
-landing page for an educational content
+Mindmelt is a platform where readers can immerse themselves in captivating articles that ignite their curiosity, challenge their thinking, and merge different ideas to create a deeper understanding or new insights. It aims to expand the boundaries of knowledge and foster intellectual exploration.
 
 ## Development tools
 
